@@ -2,3 +2,4 @@ shirac
 merlot 2018
 chadonnay 2014
 shiraz 2
+rose 2019
